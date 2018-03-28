@@ -1,5 +1,6 @@
 ## What is this?
 This is a fun little webapp, that shoots bouncing balls in random directions from the mouse click location. 
+![Animation](https://media.giphy.com/media/4Hgz0IfAJmLN9m5PNr/giphy.gif)
 
 
 ## Usage Instructions
