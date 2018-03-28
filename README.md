@@ -1,3 +1,7 @@
+## What is this?
+This is a fun little webapp, that shoots bouncing balls in random directions from the mouse click location. 
+
+
 ## Usage Instructions
 The package has a build bundle in the /dist folder. You can use for example http-server(https://www.npmjs.com/package/http-server) to run the bundle directly.   
 
